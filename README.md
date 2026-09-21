@@ -1,3 +1,10 @@
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=DeveloperAdri-exe&theme=city&footer=Building%20cool%20things%20with%20code%20%F0%9F%9A%80&show_icons=true&title=Adrian%20%7C%20Developer&description=Minecraft%20%7C%20Discord%20Bots%20%7C%20Web%20Development&include_all_commits=true)](https://github.com/maximjsx/fancy-readme-stats)
+
+
+
+
+
+
 # 💫 About Me:
 🔭 Derzeit arbeite ich an DiscordBots, Minecraft Server.<br>🌱 Derzeit Lerne ich HTML & CSS.<br>💬 Frage mich über: DiscordBots, Minecraft Server und Linux<br>⚡ Bin einfach erst 8 Klasse LOL
 
