@@ -1,4 +1,4 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=DeveloperAdri-exe&theme=city&footer=Building%20cool%20things%20with%20code%20%F0%9F%9A%80&show_icons=true&title=Adrian%20%7C%20Developer&description=Minecraft%20%7C%20Discord%20Bots%20%7C%20Web%20Development&include_all_commits=true)](https://github.com/maximjsx/fancy-readme-stats)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=DeveloperAdri-exe&theme=city&footer=Developer%20Adri&show_icons=true&title=Adrian&description=Developer%20%7C%20Minecraft%20%7C%20Discord%20%7C%20Web%20Development&include_all_commits=true)](https://github.com/maximjsx/fancy-readme-stats)
 
 
 
